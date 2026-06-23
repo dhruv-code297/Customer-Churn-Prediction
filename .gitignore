@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/
+*.streamlit.app
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pickled encoders (optional - keep model.pkl, exclude encoder backups)
+encoders.pkl
